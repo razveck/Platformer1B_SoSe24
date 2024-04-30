@@ -8,6 +8,7 @@ TagManager:
   - Killbox
   - End
   - Coin
+  - Interactable
   layers:
   - Default
   - TransparentFX
