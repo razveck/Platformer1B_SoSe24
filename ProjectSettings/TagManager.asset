@@ -9,6 +9,7 @@ TagManager:
   - End
   - Coin
   - Interactable
+  - MusicSource
   layers:
   - Default
   - TransparentFX
